@@ -71,7 +71,7 @@ There are some core functionalities that are under the hood of an ESB. These fun
 * Message Transformation
 
 ## **Reference**
-[know more about messaging queues](https://www.ibm.com/cloud/learn/message-queues)
+[Know more about messaging queues](https://www.ibm.com/cloud/learn/message-queues)
 
 [Enterprise Service Bus](https://www.cleo.com/blog/knowledge-base-enterprise-service-bus-esb)
 
